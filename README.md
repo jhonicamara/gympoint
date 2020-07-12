@@ -1,9 +1,9 @@
 <h1 align="center">
-	<img alt="GoBarber" src=".github/logo.svg" width="140px" />
+	<img alt="Gympoint" src=".github/logo.svg" width="200px" />
 </h1>
 
 <h3 align="center">
-  <b>Aplicação MeetApp</b>
+  <b>Aplicação Gympoint</b>
 </h3>
 
 <img alt="Mockup" src=".github/preview.png">
@@ -15,9 +15,9 @@ Organizei o projeto em três repositórios diferentes
 
 Segue os links
 
-- [Backend](https://github.com/jhonicamara/meetapp-api)
-- [Frontend](https://github.com/jhonicamara/meetapp-web)
-- [Mobile](https://github.com/jhonicamara/meetapp-mobile)
+- [Backend](https://github.com/jhonicamara/gympoint-api)
+- [Frontend](https://github.com/jhonicamara/gympoint-web)
+- [Mobile](https://github.com/jhonicamara/gympoint-mobile)
 
 ---
 
